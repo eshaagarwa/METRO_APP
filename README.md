@@ -1,6 +1,4 @@
 # METRO_APP
-
-
 Please don't get confused, this is NOT an ANDROID Application!
 
 This is a simple Java project using datastructure that will take information (name) of the source station and the destination station, of Metro, from the user and display the fare and shortest metro route to reach the destination. It will also be having a metro map for commuter’s better navigation.
@@ -22,3 +20,5 @@ Main.java cointains all the major code and Heap.java contains heap implementatio
 
 ## That was all...  all set on this project!!!!  
 	
+
+
